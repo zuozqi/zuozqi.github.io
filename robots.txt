@@ -1,0 +1,36 @@
+User-agent: *
+
+
+Disallow: /categories/
+
+Disallow: /tags/code/
+
+Disallow: /post/cif/
+
+Disallow: /
+
+Disallow: /categories/openfoam/
+
+Disallow: /tags/openfoam/
+
+Disallow: /post/
+
+Disallow: /tags/
+
+Disallow: /tags/contact-angle/
+
+Disallow: /post/irmifca/
+
+Disallow: /tags/ec/
+
+Disallow: /post/irmf1/
+
+Disallow: /post/irmif/
+
+Disallow: /post/loveletter/
+
+Disallow: /tags/no-tag/
+
+Disallow: /categories/unarchieved/
+
+Disallow: /post/icepcf/

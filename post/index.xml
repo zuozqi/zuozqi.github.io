@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on MrZZQi&#39;s Blog</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on MrZZQi&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 Apr 2020 13:03:32 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>compressibleInterFoam概览</title>
+      <link>http://localhost:1313/post/cif/</link>
+      <pubDate>Tue, 28 Apr 2020 13:03:32 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/cif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IRMIF中接触角的设置</title>
+      <link>http://localhost:1313/post/irmifca/</link>
+      <pubDate>Mon, 30 Mar 2020 13:03:32 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/irmifca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IRMIF中的多流体模型</title>
+      <link>http://localhost:1313/post/irmf1/</link>
+      <pubDate>Wed, 04 Mar 2020 15:34:30 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/irmf1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IRMIF中蒸发冷凝模型实现方式</title>
+      <link>http://localhost:1313/post/irmif/</link>
+      <pubDate>Thu, 27 Feb 2020 13:03:32 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/irmif/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loveletter</title>
+      <link>http://localhost:1313/post/loveletter/</link>
+      <pubDate>Fri, 14 Feb 2020 13:16:59 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/loveletter/</guid>
+      <description>&lt;p&gt;HERE&amp;rsquo;S THE HINT&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>interCondensatingEvaporatingFoam笔记</title>
+      <link>http://localhost:1313/post/icepcf/</link>
+      <pubDate>Wed, 12 Feb 2020 16:44:32 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/icepcf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
